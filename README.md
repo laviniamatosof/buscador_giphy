@@ -1,2 +1,2 @@
-# buscador_giphy
-Este é um buscador de Giphys feito a partir do curso de Flutter da Udemy
+# flutter-getting-started
+Este é um projeto que inclui os apps criados para aprender Flutter
